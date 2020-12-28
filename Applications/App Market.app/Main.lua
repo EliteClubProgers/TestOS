@@ -12,7 +12,7 @@ local event = require("Event")
 
 --------------------------------------------------------------------------------
 
-local host = "http://mineos.modder.pw/MineOSAPI/2.04/"
+local host = ""
 local iconCheckReponseTime = 2
 
 local overviewIconsCount = 14
